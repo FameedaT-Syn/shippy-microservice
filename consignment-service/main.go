@@ -9,7 +9,6 @@ import (
 
 	// Import the generated protobuf code
 	pb "github.com/FameedaT-Syn/shippy-microservice/consignment-service/proto/consignment"
-
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
